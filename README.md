@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi there I'm Tom Vacherat, a student at 42 School in Paris 👋
 
-<!--
-**tvacherat/tvacherat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧐 Here is my interests:
+- Algorithms
+- Cybersecurity
+- System administration, especially Linux
 
-Here are some ideas to get you started:
+🧠 The programming languages I know well:
+- C
+- C++
+- Linux Shellcode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤓 I also study:
+- Intel Assembly 64 bits
+- Docker & Kubernetes
+- QT 5
+
+If you have any questions, any demands or if my work helped you, please contact me.
+It is always a pleasure to discuss.
+
+Contact: tvacherat@gmail.com
+RootMe: tvacherat19
+CodinGames: tvacherat19
+Intra42: tvachera
+
+"Remember that nothing is ever taken for granted in computer science ... Moreover, everything can be optimized, even the simplest of programs."
