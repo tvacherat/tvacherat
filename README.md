@@ -11,7 +11,7 @@ Hi there I'm Tom Vacherat, a student at 42 School in Paris 👋
 - Linux Shellcode
 
 🤓 I also study:
-- Intel Assembly 64 bits
+- Netwide Assembly (NASM)
 - Docker & Kubernetes
 - QT 5
 
