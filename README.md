@@ -8,7 +8,7 @@ Hi there I'm Tom Vacherat, a student at 42 School in Paris 👋
 🧠 The programming languages I know well:
 - C
 - C++
-- Linux Shellcode
+- Shell
 
 🤓 I also study:
 - Netwide Assembler (NASM)
