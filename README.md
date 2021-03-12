@@ -26,4 +26,4 @@ It is always a pleasure to discuss.
 
 👤  Intra42: tvachera
 
-"Remember that nothing is ever taken for granted in computer science ... Moreover, everything can be optimized, even the simplest of programs."
+"I'm not a good developper, I'm just bad at giving up."
