@@ -5,7 +5,7 @@
 - Cybersecurity
 - System administration, especially Linux
 
-🧠  The programming languages I know well:
+🧠  The programming languages I practice:
 - C
 - C++
 - Shell
