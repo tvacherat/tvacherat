@@ -10,10 +10,7 @@
 - C++
 - Shell
 
-🤓  I also study:
-- Netwide Assembler (NASM)
-- Docker & Kubernetes
-- QT 5
+Currently writing a HTTP server in C++.
 
 If you have any questions, any demands or if my work helped you, please contact me.
 It is always a pleasure to discuss.
