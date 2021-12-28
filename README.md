@@ -1,16 +1,14 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&leet_logo=hide&login=tvachera)]()
 
 🧐  Here is my interests:
-- Algorithms
-- Cybersecurity
-- System administration, especially Linux
+- Back-end development
+- Web3
+- System administration
 
-🧠  The programming languages I practice:
-- C
-- C++
+🧠  The programming languages I practice and Frameworks I use :
+- C/C++ (QT5)
+- JavaScript/TypeScript (NestJs/Express)
 - Shell
-
-Currently writing a HTTP server in C++.
 
 If you have any questions, any demands or if my work helped you, please contact me.
 It is always a pleasure to discuss.
