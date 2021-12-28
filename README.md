@@ -8,6 +8,7 @@
 🧠  The programming languages I practice and Frameworks I use :
 - C/C++ (QT5)
 - JavaScript/TypeScript (NestJs/Express)
+- Solidity
 - Shell
 
 If you have any questions, any demands or if my work helped you, please contact me.
