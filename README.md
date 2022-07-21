@@ -1,16 +1,15 @@
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tvachera)](https://github.com/JaeSeoKim/badge42)
-
 🧐  Here is my interests:
 - Back-end development
 - Web3
-- System administration
+- Dev/OPS
 
 🧠  The programming languages I practice and Frameworks I use :
-- C/C++ (QT5)
 - TypeScript (NestJs/Express)
+- C/C++ (QT5)
 - Solidity
 - Shell
 
+--> https://reskue.art
 If you have any questions, any demands or if my work helped you, please contact me.
 It is always a pleasure to discuss.
 
