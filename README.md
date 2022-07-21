@@ -4,7 +4,7 @@
 - Dev/OPS
 
 🧠  The programming languages I practice and Frameworks I use :
-- TypeScript (NestJs/Express)
+- TypeScript (NestJs)
 - C/C++ (QT5)
 - Solidity
 - Shell
