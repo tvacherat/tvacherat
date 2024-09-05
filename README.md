@@ -1,4 +1,5 @@
 👋 Hi, I'm Tom !
+
 CTO @ Fullwhere – leading the technology and innovation at Fullwhere, a company specialized in enhancing customer interaction through cutting-edge solutions.
 
 42 School Alumni – I attended École 42 Paris, a unique and rigorous coding school where I developed strong full-stack development skills, creative problem-solving abilities, and a collaborative mindset.
